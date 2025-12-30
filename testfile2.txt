@@ -1,3 +1,4 @@
 this commit is from qa branch
 
 This commit is from main branch to check git Rebase and git merge
+This is to demonstrate git Merge example and this is a commit from Git MergeExample Branch
