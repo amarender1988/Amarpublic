@@ -1,1 +1,3 @@
 this commit is from qa branch
+
+This is to demonstrate git Merge example and this is a commit from Git MergeExample Branch
