@@ -1,7 +1,0 @@
-this commit is from qa branch
-
-This is to demonstrate Git Rebase example and this commit is from Git RebaseExample branch
-
-Rebase
-======
-This commit is from Rebase branch at 17:18
