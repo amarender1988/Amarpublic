@@ -4,4 +4,4 @@ This is to demonstrate Git Rebase example and this commit is from Git RebaseExam
 
 Rebase
 ======
-This commit is from Rebase branch at 16:49
+This commit is from Rebase branch at 17:18
