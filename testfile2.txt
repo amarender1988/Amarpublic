@@ -6,3 +6,7 @@ This is to demonstrate git Merge example and this is a commit from Git MergeExam
 Merge example
 ============
 This is to test Merge example at 14:23 dec-30
+
+merge example2
+===============
+This is to test Merge example at 15:14 dec-30
