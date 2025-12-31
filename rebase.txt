@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is from rebase1 branch
 
 Rebase example
@@ -8,3 +9,11 @@ Rebase example2
 =================
 
 This is from rebase1 branch the commit time is 16:28
+=======
+commit from Rebase branch at 17:58
+
+Rebase commit
+============
+
+This commit is from Rebase branch at 11:05 dec-31 2025
+>>>>>>> RebaseExample
