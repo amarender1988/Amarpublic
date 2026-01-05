@@ -1,2 +1,4 @@
 this commit is from master branch for file rebase2 commit 1
 This commit is from master branch for file rebase2 commit2
+This commit is from master branch for file rebase2 commit3
+
